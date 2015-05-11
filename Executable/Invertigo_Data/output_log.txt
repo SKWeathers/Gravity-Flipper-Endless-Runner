@@ -1,0 +1,39 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1077]
+    Renderer: ATI Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  1.381 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 5.236746 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 1.383109 ms (FindLiveObjects: 0.023269 ms CreateObjectMapping: 0.024404 ms MarkObjects: 0.302501 ms  DeleteObjects: 0.007945 ms)
+
+Platform assembly: C:\Users\Steven\Documents\Unity\Games\Invertigo_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 24.566792 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 116.
+Total: 1.554508 ms (FindLiveObjects: 0.015323 ms CreateObjectMapping: 0.019864 ms MarkObjects: 0.266746 ms  DeleteObjects: 0.286043 ms)
+
+You pressed Settings
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Quitter
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
